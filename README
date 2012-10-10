@@ -1,0 +1,11 @@
+My default project with VRaptor Framework. In this project I have some libs and default configurations, like:
+Lib Tests:
+- Mockito
+- JUnit
+- Jasmine (Framework for testing JavaScript)
+Dependecy Injection/ IoC / etc
+- Pico Container
+ORM
+- JPA with Hibernate
+Web Framework
+- VRaptor 3
